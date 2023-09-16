@@ -1,0 +1,96 @@
+---
+id: swsh8-271
+name: Gengar VMAX
+supertype: Pokémon
+subtypes:
+- VMAX
+- Single Strike
+hp: '320'
+types:
+- Darkness
+evolvesFrom: Gengar V
+rules:
+- 'VMAX rule: When your Pokémon VMAX is Knocked Out, your opponent takes 3 Prize cards.'
+attacks:
+- name: Fear and Panic
+  cost:
+  - Darkness
+  - Darkness
+  convertedEnergyCost: 2
+  damage: 60×
+  text: This attack does 60 damage for each of your opponent's Pokémon V and Pokémon-GX
+    in play.
+- name: G-Max Swallow Up
+  cost:
+  - Darkness
+  - Darkness
+  - Darkness
+  convertedEnergyCost: 3
+  damage: '250'
+  text: During your next turn, this Pokémon can't attack.
+weaknesses:
+- type: Fighting
+  value: "×2"
+retreatCost:
+- Colorless
+- Colorless
+- Colorless
+convertedRetreatCost: 3
+set:
+  id: swsh8
+  name: Fusion Strike
+  series: Sword & Shield
+  printedTotal: 264
+  total: 284
+  legalities:
+    unlimited: Legal
+    standard: Legal
+    expanded: Legal
+  ptcgoCode: FST
+  releaseDate: 2021/11/12
+  updatedAt: 2021/11/12 07:32:00
+  images:
+    symbol: https://images.pokemontcg.io/swsh8/symbol.png
+    logo: https://images.pokemontcg.io/swsh8/logo.png
+number: '271'
+artist: sowsow
+rarity: Rare Rainbow
+nationalPokedexNumbers:
+- 94
+legalities:
+  unlimited: Legal
+  standard: Legal
+  expanded: Legal
+regulationMark: E
+images:
+  small: https://images.pokemontcg.io/swsh8/271.png
+  large: https://images.pokemontcg.io/swsh8/271_hires.png
+tcgplayer:
+  url: https://prices.pokemontcg.io/tcgplayer/swsh8-271
+  updatedAt: 2023/09/16
+  prices:
+    holofoil:
+      low: 173.0
+      mid: 203.0
+      high: 399.69
+      market: 202.94
+      directLow: 180.2
+cardmarket:
+  url: https://prices.pokemontcg.io/cardmarket/swsh8-271
+  updatedAt: 2023/09/16
+  prices:
+    averageSellPrice: 227.73
+    lowPrice: 95.0
+    trendPrice: 231.57
+    germanProLow: 0.0
+    suggestedPrice: 0.0
+    reverseHoloSell: 0.0
+    reverseHoloLow: 0.0
+    reverseHoloTrend: 0.0
+    lowPriceExPlus: 110.0
+    avg1: 200.99
+    avg7: 205.99
+    avg30: 223.83
+    reverseHoloAvg1: 0.0
+    reverseHoloAvg7: 0.0
+    reverseHoloAvg30: 0.0
